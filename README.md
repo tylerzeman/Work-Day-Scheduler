@@ -1,4 +1,4 @@
-# 06 Work Day Scheduler
+# 05 Work Day Scheduler
 
 This week I was tasked with using HTML, Javascript, Jquery, Bootstrap to create a work day scheduler/
 
